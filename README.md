@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Vicente Zapata</h1>
 <h3 align="center">Técnico programador y Ing. en ciberseguridad</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicentezapata" alt="vicentezapata" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicentezapata&theme=darkhub" alt="vicentezapata" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo seguridad en distintos temas **DevSecOps**
 
